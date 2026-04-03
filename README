@@ -1,0 +1,13 @@
+###Chatbot & LLM Evaluation
+
+## Overview
+This repository presents an evaluation of conversational AI systems, including **ELIZA** and modern **instruction-tuned LLMs**. Systems were tested for **coherence**, **instruction-following**, and **relevance** in response to user prompts.  
+
+The lab demonstrates the differences between **rule-based chatbots** and modern **LLMs**, highlighting the strengths of instruction-tuned models for chatbot tasks.
+
+## Tools
+- Python
+- Hugging Face Transformers
+
+## Author
+**Potlako Makofane**
